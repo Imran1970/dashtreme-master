@@ -1,0 +1,37 @@
+Key Features
+
+Bootstrap 4
+Clean and minimal design
+Multi-page template
+Cross-browser compatibility
+Fully responsive
+Hundreds of UI icons
+Multiple form layouts
+Tables layouts
+Event calendar
+User registration page
+User login page
+Color Switcher
+Progress bars
+Drop-down menu
+Search option
+Tabbed content
+Documentation
+Fontawesome font icons
+ 
+
+In The Box
+All demo images
+10 HTML files
+CSS & SCSS files
+JavaScript source files
+Font Icons
+Documentation
+Library and plugin files
+ 
+
+Libraries and Plugins
+Bootstrap 4
+jQuery
+Chart JS
+Fullcalendar
